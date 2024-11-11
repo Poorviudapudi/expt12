@@ -3,4 +3,9 @@ second commit
 third commit
 fourth commit
 fifth commit
+<<<<<<< HEAD
 
+=======
+reverting
+good morning
+>>>>>>> 6c9ab874ff0a1f1d1ff64674f8c493aad072a5b2
